@@ -29,8 +29,8 @@ The project focuses on user privilege management and conditional command executi
 
 ## Compilation
 
-make setuid
-make
+- make setuid
+- make
 
 ## Usage
 
