@@ -29,4 +29,9 @@ The project focuses on user privilege management and conditional command executi
 
 ## Compilation
 
+make setuid
 make
+
+## Usage
+
+./my_sudo -u root ls -l
